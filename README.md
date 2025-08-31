@@ -16,7 +16,7 @@ I enjoy designing tools that bridge biology, engineering, and software — from 
 
 ---
 
-## 🛠 Tech & Tools
+##  Tech & Tools
 - **Languages:** Python, JavaScript/TypeScript, Shell (zsh), a bit of C/C++ for microcontrollers.  
 - **Platforms:** Raspberry Pi, ESP32, microcontrollers, containerized services.  
 - **Other Interests:** Modbus/PLC integration, AI-assisted knowledge management, and low-cost sensor hardware.  
