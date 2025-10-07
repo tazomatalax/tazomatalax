@@ -6,7 +6,7 @@ I enjoy designing tools that bridge biology, engineering, and software — from 
 
 ##  What I'm Working On
 -  **AI-assisted bioreactor control systems** for portable and scalable experimentation.  
--  **Bioeconomy innovation**: exploring new feedstocks (like dairy wastewater fats) for PHA and sustainable materials.  
+-  **Bioeconomy innovation**: exploring new feedstocks for sustainable materials.  
 -  **Digital Twin platforms**: integrating sensors, SQL/Grafana data, and real-time analytics.  
 -  **Side projects**:   
   - Home Assistant automations for smart family life (like chore tracking dashboards).
